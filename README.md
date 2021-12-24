@@ -30,4 +30,4 @@ A little more of my studie C#
 </p>
 <hr>
 
-This repository is inventory management software
+This repository is basic management software
